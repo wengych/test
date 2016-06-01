@@ -1,0 +1,4 @@
+dev:
+  script:
+    - ./gradlew clean build
+
